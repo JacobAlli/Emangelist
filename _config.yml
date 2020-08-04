@@ -1,2 +1,13 @@
-kramdown:
-  hard_wrap: true
+defaults:
+  -
+    scope:
+      path: "" # an empty string here means all files in the project
+      type: "posts" # previously `post` in Jekyll 2.2.
+    values:
+      layout: "page"
+      image_path:
+      categorysubtitle:
+      title:
+      subtitle:
+      date:
+      author: Michael Sheerin
