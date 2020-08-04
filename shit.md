@@ -1,11 +1,12 @@
 ---
+title: What do we mean by "Stop eating shit sandwiches?"
+date: 2020-07-08 00:00:00 Z
 layout: page
 image_path: https://images.pexels.com/photos/1049317/pexels-photo-1049317.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260
 categorysubtitle: Resources
-title: What do we mean by "Stop eating shit sandwiches?"
-subtitle: The weeks are ham asked jokes. Neglected per made shy nay concluded. Not mile draw plan
-link: /single.html
-date: 8/7/2020
+subtitle: The weeks are ham asked jokes. Neglected per made shy nay concluded. Not
+  mile draw plan
+link: "/single.html"
 author: Michael Sheerin
 ---
 
