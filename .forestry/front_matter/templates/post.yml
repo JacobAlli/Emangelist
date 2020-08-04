@@ -21,8 +21,5 @@ fields:
   name: subtitle
   label: subtitle
 - type: text
-  name: link
-  label: link
-- type: text
   name: author
   label: author
