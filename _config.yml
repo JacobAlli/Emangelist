@@ -1,3 +1,16 @@
+defaults:
+  -
+    scope:
+      path: "" # an empty string here means all files in the project
+      type: "posts" # previously `post` in Jekyll 2.2.
+    values:
+      layout: "page"
+      image_path:
+      categorysubtitle:
+      title:
+      subtitle:
+      date:
+      author: Michael Sheerin
 ---
 title: Emangelist
 timezone: UTC
@@ -8,15 +21,5 @@ collections:
   uploads:
     title: Uploads
     output: true
-defaults:
-- scope:
-    path: ''
-    type: posts
-  values:
-    layout: page
-    image_path: 
-    categorysubtitle: 
-    title: 
-    subtitle: 
-    date: 
-    author: Michael Sheerin
+kramdown:
+  hard_wrap: true
