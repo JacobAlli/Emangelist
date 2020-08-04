@@ -11,3 +11,15 @@ defaults:
       subtitle:
       date:
       author: Michael Sheerin
+---
+title: Emangelist
+timezone: UTC
+collections:
+  posts:
+    title: Posts
+    output: true
+  uploads:
+    title: Uploads
+    output: true
+kramdown:
+  hard_wrap: true
