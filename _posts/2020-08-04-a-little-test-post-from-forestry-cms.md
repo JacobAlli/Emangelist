@@ -1,8 +1,8 @@
 ---
 title: A little test post from Jacobo
-date: 2020-08-04T19:14:00.000+00:00
+date: 2020-08-04 19:14:00 +0000
 layout: page
-image_path: https://images.pexels.com/photos/1851164/pexels-photo-1851164.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940
+image_path: https://images.pexels.com/photos/2287523/pexels-photo-2287523.jpeg?cs=srgb&dl=pexels-naim-benjelloun-2287523.jpg&fm=jpg
 categorysubtitle: DANK CONTENT FROM JACOB
 subtitle: Vamos a la playa a mi me gusta bailar. El ridmo de la noche. Sounds of FIESTA...
   oh oh. JUst singing this in my head as I type this because I need some form of placeholder
