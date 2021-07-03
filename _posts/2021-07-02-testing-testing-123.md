@@ -8,3 +8,10 @@ subtitle: some preview text goes here, maybe an excerpt from the posting itself.
 author: Jacob Allison
 
 ---
+Some normal text. Some normal text. Some normal text. Some normal text. Some normal text. <br>
+
+Some big stylized text. Some big stylized text. Some big stylized text. Some big stylized text. {: .big-text} <br>
+
+some more normal text. some more normal text. some more normal text. some more normal text. some more normal text. some more normal text. some more normal text. <br>
+
+> Some blockquote text. Some blockquote text. Some blockquote text. Some blockquote text. Some blockquote text. Some blockquote text.
