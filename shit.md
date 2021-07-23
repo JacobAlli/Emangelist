@@ -18,12 +18,12 @@ _"I don't deserve love." "If she only knew what I really thought" "Jeez these ki
 
 Ordinary men are exceptional when they show up to life prepared to win. {: .big-text} <br>
 
-**_How do you show up? How do you be exceptional?_**  <br>
+**_How do you show up? How do you be exceptional?  How do you win at life?_** <br>
 
 **That is what this website is for.** <br>
 
 > Our contributors are men who have had success in the category of the day and are sharing thoughts that they have been applying to their own lives and experiencing  positive change from or these thoughts are uplifting them uniting them with hope. This does not mean all thoughts are organic and their own. They may be things worth sharing. <br>
 
-**So what do you feed yourself mentally? <br>**
+**So what do you feed yourself mentally? Are you tired of Shit Sandwiches. Are you hungry for life. <br>**
 
 Come be fed by food that nourishes. Nourish hope. {: .big-text} <br>
