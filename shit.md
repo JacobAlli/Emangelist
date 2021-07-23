@@ -10,12 +10,20 @@ link: ''
 author: Michael Sheerin
 
 ---
-You have thoughts in your head that you have said so many times that are not true. These thoughts hereafter will be called 'Shit Sandwiches'  Some examples of these poisonous thoughts are as follows. "I don't deserve love." "If she only knew what I really thought" "Jeez these kids are a burden." "Why is she always on my case?" "Nobody understands me." "Things won't get better." "I am stuck in this job." "What's in it for me?" "Will I ever get ahead?" "Will it feel good?" "What is the least I can do?"<br>
+**You have thoughts in your head that you have said so many times that are not true. These thoughts hereafter will be called 'Shit Sandwiches'  Some examples of these poisonous thoughts are as follows.** <br>
 
-Despair is what separates a man from hope. Hope is what makes a man pursue greater things in all the areas of life where he wants better.<br>
+_"I don't deserve love." "If she only knew what I really thought" "Jeez these kids are a burden." "Why is she always on my case?" "Nobody understands me." "Things won't get better." "I am stuck in this job." "What's in it for me?" "Will I ever get ahead?" "Will it feel good?" "What is the least I can do?"_ <br>
+
+**These thoughts are killing you from the inside and feeding despair. Despair is what separates a man from hope. Hope is what makes a man pursue greater things in all the areas of life where he wants better.** <br>
 
 Ordinary men are exceptional when they show up to life prepared to win. {: .big-text} <br>
 
-How do you show up? How do you be exceptional?  That is what this website is for. <br>
+**_How do you show up? How do you be exceptional?_**  <br>
 
-> Some blockquote text. Some blockquote text. Some blockquote text. Some blockquote text. Some blockquote text. Some blockquote text.
+**That is what this website is for.** <br>
+
+> Our contributors are men who have had success in the category of the day and are sharing thoughts that they have been applying to their own lives and experiencing  positive change from or these thoughts are uplifting them uniting them with hope. This does not mean all thoughts are organic and their own. They may be things worth sharing. <br>
+
+**So what do you feed yourself mentally? <br>**
+
+Come be fed by food that nourishes. Nourish hope. {: .big-text} <br>
