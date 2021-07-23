@@ -16,7 +16,7 @@ _"I don't deserve love." "If she only knew what I really thought" "Jeez these ki
 
 **These thoughts are killing you from the inside and feeding despair. Despair is what separates a man from hope. Hope is what makes a man pursue greater things in all the areas of life where he wants better.** <br>
 
-Ordinary men are exceptional when they show up to life prepared to win. {: .big-text} <br>
+Ordinary men are exceptional when they show up to life prepared to win. {: .big-text}<br>
 
 **_How do you show up? How do you be exceptional?  How do you win at life?_** <br>
 
@@ -26,4 +26,4 @@ Ordinary men are exceptional when they show up to life prepared to win. {: .big-
 
 **So what do you feed yourself mentally? Are you tired of Shit Sandwiches. Are you hungry for life. <br>**
 
-Come be fed by food that nourishes. Nourish hope. {: .big-text} <br>
+Come be fed by food that nourishes. Nourish hope. {: .big-text}<br>
